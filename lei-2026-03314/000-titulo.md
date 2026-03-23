@@ -1,0 +1,2 @@
+# LEI Nº 3.314/2026 Dispõe sobre a vedação da nomeação para cargos públicos de pessoas condenadas pela Lei Maria da Penha e crimes de feminicídio no âmbito do Município de Juazeiro-BA, institui a obrigatoriedade de divulgação semanal dos canais de denúncia nas redes oficiais, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, na conformidade do art. 61, incisos V e XVIII, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
