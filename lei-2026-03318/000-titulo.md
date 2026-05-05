@@ -1,0 +1,2 @@
+# LEI Nº 3.318/2026, 05 DE MAIO DE 2026 Dispõe sobre a desafetação de trecho de via pública e sua destinação à ampliação da Escola Municipal Iracy Nunes, localizada no Distrito de Itamotinga, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, consoante dispõe o inciso IV do art. 61 da Lei Orgânica do Município, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
