@@ -1,0 +1,2 @@
+# LEI Nº 3.319/2026, DE 12 DE MAIO DE 2026 LEI Nº 3.319/2026 Dispõe sobre a alteração da denominação do Colégio Manoel Gomes Martins, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, na conformidade do art. 61, incisos V e XVIII, da Lei Orgânica do Município, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
