@@ -1,0 +1,2 @@
+# LEI Nº 3.325/2026, DE 08 DE JUNHO DE 2026 Denomina "JUDITH DOS SANTOS", a EMEI - Escola Municipal de Educação Infantil, localizada no Bairro Novo Encontro, Município de Juazeiro, Bahia.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, na conformidade do art. 61, incisos V e XVIII, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
