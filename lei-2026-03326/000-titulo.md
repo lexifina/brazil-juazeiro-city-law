@@ -1,0 +1,2 @@
+# LEI Nº 3.326/2026, 10 DE JUNHO DE 2026 Institui o Auxílio Uniforme, a ser pago em pecúnia aos servidores ocupantes do cargo de Guarda Civil Municipal de Juazeiro/BA, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, em conformidade com o art. 61, incisos V e XVIII, faz saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
