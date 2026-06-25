@@ -1,0 +1,2 @@
+# LEI Nº 3.327/2026, DE 25 DE JUNHO DE 2026 LEI Nº 3.327/2026 Institui o Programa Municipal de Popularização da Ciência, Tecnologia e Inovação - Pop Ciência Juazeiro, no âmbito do Município de Juazeiro-BA, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais, na conformidade do art. 61, inc. IV, da Lei Orgânica do Município, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
