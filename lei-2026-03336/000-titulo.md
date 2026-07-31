@@ -1,0 +1,2 @@
+# LEI Nº 3.336, DE 31 DE JULHO DE 2026 LEI Nº 3.336/2026 Dispõe sobre a alteração da Lei Municipal nº 2.467, de 07 de julho de 2014, de reestruturação do Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, na conformidade do art. 61, incisos V e XVIII, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
