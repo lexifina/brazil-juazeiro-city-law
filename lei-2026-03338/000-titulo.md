@@ -1,0 +1,2 @@
+# LEI Nº 3.338/2026, 12 DE AGOSTO DE 2026 LEI Nº 3.338/2026 Altera dispositivos da Lei Municipal nº 3.273, de 25 de agosto de 2025, que cria, no âmbito municipal, o Programa de Intercâmbio Cultural Internacional "Juazeiro Pelo Mundo", e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais e constitucionais, na conformidade do art. 61, incisos V e XVIII, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
