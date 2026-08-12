@@ -1,0 +1,2 @@
+# LEI Nº 3.339, DE 12 DE AGOSTO DE 2026 LEI Nº 3.339/2026 Altera o art. 6º da Lei Municipal nº 3.151, de 7 de dezembro de 2023, que autoriza o Poder Executivo a contratar operação de crédito com o Banco do Brasil S.A., com a garantia da União, e dá outras providências.
+O PREFEITO MUNICIPAL DE JUAZEIRO, ESTADO DA BAHIA, no uso de suas atribuições legais, na conformidade do art. 61, incisos V e XVIII, da Lei Orgânica do Município, faço saber que a Câmara Municipal decreta e eu sanciono e promulgo a seguinte Lei:
