@@ -1,0 +1,201 @@
+{
+ "country": "BR-BA-JUAZEIRO",
+ "acts": [
+  {
+   "slug": "lei-2026-03339",
+   "short": "Lei 3339/2026",
+   "title": "Lei nº 3.339, de 12 de agosto de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2815",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2815/altera_o_art._6o_da_lei_municipal_no_3.151_de_7_de_dezembro_de_2023_que_autoriza_o_poder_executivo_a_contratar.pdf",
+     "sha256": "5886a35f7a441bc858897cfc2b3c0e74784e79033946d3b558694756841534c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03338",
+   "short": "Lei 3338/2026",
+   "title": "Lei nº 3.338, de 12 de agosto de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2813",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2813/altera_dispositivos_da_lei_municipal_no_3.273_de_25_de_agosto_de_2025_que_cria_no_ambito_municipal_o_programa_de_intercambio.pdf",
+     "sha256": "d081cd310f4986560771599e8eedb9623420d62bf1cb4ff0c16fa33561767af3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03336",
+   "short": "Lei 3336/2026",
+   "title": "Lei nº 3.336, de 31 de julho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2812",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 5,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2812/dispoe_sobre_a_alteracao_da_lei_municipal_no_2.467_de_07_de_julho_de_comsea.pdf",
+     "sha256": "64be4b91544964a3dcfbe6954e725582807d1f78494d686d19887b36622568e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03327",
+   "short": "Lei 3327/2026",
+   "title": "Lei nº 3.327, de 25 de junho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2814",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 13,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2814/institui_o_programa_municipal_de_popularizacao_da_ciencia_tecnologia_e_inovacao_-_pop_ciencia_juazeiro_no_ambito_do_municipio_de_juazeiro-ba_e_da_outras_providencias..pdf",
+     "sha256": "24dfe2e37d9f3b29d71325a29a0657039d15def95addcc20bfa5950d9fb58df6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03326",
+   "short": "Lei 3326/2026",
+   "title": "Lei nº 3.326, de 10 de junho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2798",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 19,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2798/lei_no_3.326-2026_10_de_junho_de_2026.pdf",
+     "sha256": "3982c223939d0363378ebd36fd03032e5d9816306413b65699edf3f9250572c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03325",
+   "short": "Lei 3325/2026",
+   "title": "Lei nº 3.325, de 8 de junho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2799",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 4,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2799/lei_no_3.325-2026_de_08_de_junho_de_2026.pdf",
+     "sha256": "917f550cd782cbd6d9427a0251f0746b5a225388b9379c1281df1020439d9444"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03324",
+   "short": "Lei 3324/2026",
+   "title": "Lei nº 3.324, de 8 de junho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2797",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 4,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2797/lei_no_3.324-2026_de_08_de_junho_de_2026.pdf",
+     "sha256": "50a56bbb505ab6f734b80302e04fdb1b2be40e9804f2621b182119b710d27444"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03323",
+   "short": "Lei 3323/2026",
+   "title": "Lei nº 3.323, de 2 de junho de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2796",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 7,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2796/lei_no_3.323-2026_de_02_de_junho_de_2026.pdf",
+     "sha256": "dc894d5f21c264fa48c3629e5e096c01934da0695ab2e112ff4a64e6a2ec9e6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03322",
+   "short": "Lei 3322/2026",
+   "title": "Lei nº 3.322, de 13 de maio de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2789",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 5,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2789/lei_no_3.322-2026_de_13_de_maio_de_2026.pdf",
+     "sha256": "0471e3958706235c8649ca96d5fb62323e5facd0de58c09f9da445437f49b041"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03321",
+   "short": "Lei 3321/2026",
+   "title": "Lei nº 3.321, de 12 de maio de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2791",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2791/lei_no_3.321-2026_de_12_de_maio_de_2026.pdf",
+     "sha256": "92fe0c6df825f7ed70ad26f9df94d14a2aceebbe6540255f545514f535d8268b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03320",
+   "short": "Lei 3320/2026",
+   "title": "Lei nº 3.320, de 12 de maio de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2792",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2792/lei_no_3.320-2026_de_12_de_maio_de_2026.pdf",
+     "sha256": "f54bda4d7a303c300e0295051c421b6378409b4e4b8ceafbf152355bc0716cf3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03319",
+   "short": "Lei 3319/2026",
+   "title": "Lei nº 3.319, de 12 de maio de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2790",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2790/lei_no_3.319-2026_de_12_de_maio_de_2026.pdf",
+     "sha256": "d0dfd9fde48bd67ab2bcbc4130a3180dc483a1726a76070d8eca4a3767146c5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03318",
+   "short": "Lei 3318/2026",
+   "title": "Lei nº 3.318, de 5 de maio de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2788",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 6,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2788/lei_no_3.318-2026_05_de_maio_de_2026.pdf",
+     "sha256": "e36c390915e1c1e44f73a8d6d8c5508b5fce37f9de490378aac3cd9f7ffc3f2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03314",
+   "short": "Lei 3314/2026",
+   "title": "Lei nº 3.314, de 23 de março de 2026",
+   "url": "https://sapl.juazeiro.ba.leg.br/norma/2738",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://sapl.juazeiro.ba.leg.br/media/sapl/public/normajuridica/2026/2738/lei_no_3.314-2026.pdf",
+     "sha256": "27e350e6b29c96ade9b7c711f639f63b043be0e98db13e633b821966f96b383a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-juazeiro",
+  "code": "BR-BA-JUAZEIRO",
+  "name": "Juazeiro (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-juazeiro-city-law",
+  "build": "built: the law of Juazeiro from the Câmara Municipal's SAPL"
+}
